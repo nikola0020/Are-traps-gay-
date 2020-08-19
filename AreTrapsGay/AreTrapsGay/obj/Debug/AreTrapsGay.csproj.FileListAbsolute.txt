@@ -1,0 +1,7 @@
+C:\Users\Master\Documents\Visual Studio 2019\Projects\AreTrapsGay\AreTrapsGay\obj\Debug\AreTrapsGay.csprojAssemblyReference.cache
+C:\Users\Master\Documents\Visual Studio 2019\Projects\AreTrapsGay\AreTrapsGay\obj\Debug\AreTrapsGay.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Visual Studio 2019\Projects\AreTrapsGay\AreTrapsGay\bin\Debug\AreTrapsGay.exe.config
+C:\Users\Master\Documents\Visual Studio 2019\Projects\AreTrapsGay\AreTrapsGay\bin\Debug\AreTrapsGay.exe
+C:\Users\Master\Documents\Visual Studio 2019\Projects\AreTrapsGay\AreTrapsGay\bin\Debug\AreTrapsGay.pdb
+C:\Users\Master\Documents\Visual Studio 2019\Projects\AreTrapsGay\AreTrapsGay\obj\Debug\AreTrapsGay.exe
+C:\Users\Master\Documents\Visual Studio 2019\Projects\AreTrapsGay\AreTrapsGay\obj\Debug\AreTrapsGay.pdb
